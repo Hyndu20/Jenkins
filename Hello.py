@@ -1,1 +1,1 @@
-print('hello jenkins build using webhooks')
+print('hello jenkins secret using webhooks')
